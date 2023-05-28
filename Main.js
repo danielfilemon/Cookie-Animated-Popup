@@ -7,6 +7,6 @@ anim.fromTo('.farelo', { opacity: 0, y: -50, rotation: '-30deg' }, { opacity: 1,
 
 function myFuncion() {
 
-    alert("TROJAN HORSE");
+    
 
 }
